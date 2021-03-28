@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://keannachicco.github.io/csb-kqqvf/static/js/main.b86aa8ea.chunk.js",
+    "main.js.map": "https://keannachicco.github.io/csb-kqqvf/static/js/main.b86aa8ea.chunk.js.map",
+    "runtime-main.js": "https://keannachicco.github.io/csb-kqqvf/static/js/runtime-main.184eabfd.js",
+    "runtime-main.js.map": "https://keannachicco.github.io/csb-kqqvf/static/js/runtime-main.184eabfd.js.map",
+    "static/js/2.a6f19205.chunk.js": "https://keannachicco.github.io/csb-kqqvf/static/js/2.a6f19205.chunk.js",
+    "static/js/2.a6f19205.chunk.js.map": "https://keannachicco.github.io/csb-kqqvf/static/js/2.a6f19205.chunk.js.map",
+    "index.html": "https://keannachicco.github.io/csb-kqqvf/index.html",
+    "precache-manifest.d6beee5d60021db20cc72ec0d9c30a23.js": "https://keannachicco.github.io/csb-kqqvf/precache-manifest.d6beee5d60021db20cc72ec0d9c30a23.js",
+    "service-worker.js": "https://keannachicco.github.io/csb-kqqvf/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.184eabfd.js",
+    "static/js/2.a6f19205.chunk.js",
+    "static/js/main.b86aa8ea.chunk.js"
+  ]
+}
